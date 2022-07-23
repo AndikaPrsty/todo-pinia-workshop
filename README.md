@@ -12,6 +12,14 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+### clone this project
+
+```sh
+git clone https://github.com/AndikaPrsty/todo-pinia-workshop.git
+```
+
+### install dependencies
+
 ```sh
 npm install
 ```
